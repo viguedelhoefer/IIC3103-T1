@@ -2,6 +2,8 @@
 
 https://polar-lake-02975.herokuapp.com/
 
+*Si el link se demora mucho en cargar hay que refreshear hasta que cargue la pagina
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
