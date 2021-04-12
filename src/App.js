@@ -6,7 +6,7 @@ import SeasonsComponent from './Seasons';
 import EpisodesComponent from './Episodes';
 import EpisodeDetailComponent from './EpisodesDetail';
 import SearchResultComponent from './SearchResult';
-import CharacterComponent from './Characters.js'
+import CharacterComponent from './Characters';
 
 function App() {
   return (
